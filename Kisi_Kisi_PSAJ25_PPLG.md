@@ -1,9 +1,9 @@
 # KISI-KISI UJIAN AKHIR SEMESTER GENAP  
-**Mata Pelajaran:** Dasar Pemrograman Web & Basis Data  
+**Mata Pelajaran:** Dasar Pemrograman Web, PBO & Basis Data  
 **Kelas:** XI  
 **Jenis Ujian:** Pilihan Ganda  
-**Jumlah Soal:** 50 Soal  
-**Waktu:** 90 menit  
+**Jumlah Soal:** 60 Soal  
+**Waktu:** ?? menit  
 
 ---
 
@@ -66,12 +66,17 @@
 | 19 | Penggunaan fungsi   | Membaca dan memahami hasil dari fungsi agregat                  | C2             | 2            |
 | 20 | Penerapan fungsi    | Menerapkan fungsi agregasi dalam query                         | C3             | 1            |
 
----
+### 7. Pemrograman Dasar PHP
 
-## Total Distribusi Tingkat Kognitif
-
-| Level Kognitif | Jumlah Soal |
-|----------------|--------------|
-| C1 (Mengingat) | 25 soal      |
-| C2 (Memahami)  | 15 soal      |
-| C3 (Menerapkan)| 10 soal      |
+| No | Materi                      | Indikator Soal                                                              | Level Kognitif |
+|----|-----------------------------|------------------------------------------------------------------------------|----------------|
+| 1  | Sejarah PHP                | Mengingat tokoh pengembang awal bahasa PHP                                  | C1             |
+| 2  | Dasar perintah PHP (echo)  | Mengetahui fungsi dari perintah `echo`                                      | C1             |
+| 3  | Variabel dalam PHP         | Mengetahui simbol penanda variabel                                          | C1             |
+| 4  | Sintaks dasar PHP          | Memahami struktur tag pembuka dan penutup PHP                               | C2             |
+| 5  | Ekstensi file PHP          | Mengetahui ekstensi file PHP yang dikenali server                           | C1             |
+| 6  | Karakteristik PHP          | Mengidentifikasi ciri khas atau karakteristik bahasa PHP                    | C2             |
+| 7  | Tipe Data                  | Mengenali tipe data valid dan tidak valid dalam PHP                         | C2             |
+| 8  | Konsep CRUD                | Menentukan bagian yang bukan termasuk dalam operasi CRUD                    | C2             |
+| 9  | Struktur folder XAMPP      | Mengetahui lokasi penyimpanan file agar bisa diakses melalui browser        | C1             |
+| 10 | Operator dan konversi tipe | Menganalisis hasil ekspresi yang melibatkan angka dan string dalam operasi  | C2             |
