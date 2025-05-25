@@ -19,50 +19,52 @@
 | 5  | Struktur halaman       | Menyusun tag HTML dalam halaman web sederhana                                 | C3     |
 
 ---
+## B. Basis Data (40 soal)
 
-## B. Basis Data (40 Soal)
+### 1. Dasar Basis Data (5 soal)
 
-### 1. Dasar Basis Data (5 Soal)
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 6  | Konsep dasar        | Memahami istilah database, field, record, tabel                  | C1             | 3            |
+| 7  | Identifikasi data   | Mengaitkan data nyata ke dalam struktur basis data              | C2             | 1            |
+| 8  | Aplikasi sederhana  | Menentukan struktur tabel sederhana untuk studi kasus           | C3             | 1            |
 
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 6  | Konsep dasar        | Memahami istilah database, tabel, field, dan record             | C1     |
-| 7  | Identifikasi data   | Mengaitkan data nyata dengan struktur tabel                     | C2     |
-| 8  | Aplikasi sederhana  | Menentukan struktur tabel dari kasus                            | C3     |
+### 2. Entity Relationship Diagram (5 soal)
 
-### 2. Entity Relationship Diagram (ERD) (5 Soal)
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 9  | Simbol ERD          | Mengenali entitas, relasi, atribut dalam ERD                    | C1             | 2            |
+| 10 | Membaca diagram     | Menjelaskan hubungan antar entitas dalam ERD                    | C2             | 2            |
+| 11 | Penerapan ERD       | Menentukan entitas-relasi untuk kasus sederhana                 | C3             | 1            |
 
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 9  | Simbol dalam ERD    | Mengenali entitas, relasi, atribut dalam diagram                | C1     |
-| 10 | Membaca diagram     | Menjelaskan relasi dan entitas                                  | C2     |
-| 11 | Menerapkan ERD      | Menentukan entitas-relasi untuk kasus nyata                     | C3     |
+### 3. SQL - DDL (5 soal)
 
-### 3. DDL – Data Definition Language (5 Soal)
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 12 | Perintah dasar      | Mengetahui perintah `CREATE`, `ALTER`, `DROP`                   | C1             | 3            |
+| 13 | Sintaks pembuatan   | Menuliskan sintaks pembuatan tabel sederhana                    | C2, C3         | 2            |
 
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 12 | CREATE, DROP, ALTER | Menentukan fungsi dan hasil perintah DDL                        | C1–C2  |
-| 13 | Pembuatan tabel     | Menulis atau melengkapi sintaks pembuatan tabel sederhana       | C3     |
+### 4. SQL - DML (5 soal)
 
-### 4. DML – Data Manipulation Language (5 Soal)
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 14 | Manipulasi data     | Memahami `INSERT`, `UPDATE`, `DELETE`, dan `SELECT`             | C1             | 2            |
+| 15 | Menampilkan data    | Menampilkan dan memodifikasi data menggunakan query             | C2, C3         | 3            |
 
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 14 | INSERT, UPDATE, DELETE | Memahami dan memilih fungsi perintah DML                      | C1–C2  |
-| 15 | SELECT + kondisi    | Menjelaskan efek query SELECT dan WHERE                         | C3     |
+### 5. SQL - DCL (5 soal)
 
-### 5. DCL – Data Control Language (5 Soal)
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 16 | Hak akses pengguna  | Mengetahui perintah `GRANT` dan `REVOKE`                        | C1             | 2            |
+| 17 | Analisis perintah   | Memahami efek dari pemberian hak akses                          | C2, C3         | 3            |
 
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 16 | GRANT dan REVOKE    | Memahami fungsi dan dampak dari hak akses pengguna              | C1–C3  |
+### 6. Fungsi Agregasi (5 soal)
 
-### 6. Fungsi Agregasi (5 Soal)
-
-| No | Materi              | Indikator Soal                                                  | Level |
-|----|---------------------|------------------------------------------------------------------|--------|
-| 17 | SUM, AVG, MAX       | Menentukan hasil dan penggunaan fungsi agregat                  | C1–C3  |
+| No | Materi              | Indikator Soal                                                  | Level Kognitif | Jumlah Soal |
+|----|---------------------|------------------------------------------------------------------|----------------|--------------|
+| 18 | Fungsi dasar        | Mengenali fungsi `SUM`, `AVG`, `COUNT`, `MAX`, `MIN`           | C1             | 2            |
+| 19 | Penggunaan fungsi   | Membaca dan memahami hasil dari fungsi agregat                  | C2             | 2            |
+| 20 | Penerapan fungsi    | Menerapkan fungsi agregasi dalam query                         | C3             | 1            |
 
 ### 7. Tambahan Soal Basis Data (10 Soal – No. 41–50, Semua C2)
 
